@@ -84,7 +84,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'djongo',
         'CLIENT': {
-            "host":"mongodb+srv://pgguilherme337:sehloiro123@cluster0.oyunihs.mongodb.net/?retryWrites=true&w=majority",
+            "host":"mongodb+srv://pgguilherme337:sehloiro123@cluster0.bqhb9b1.mongodb.net/?retryWrites=true&w=majority",
             "name":"mypartyapp",
             "authMechanism":"SCRAM-SHA-1",
         }
